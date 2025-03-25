@@ -6,23 +6,23 @@ The repository includes:
 
 Research papers and review articles in PDF format
 
-Resources on applying AI and Machine Learning to Chinese history, culture, language, and digital humanities
+• Resources on applying AI and Machine Learning to Chinese history, culture, language, and digital humanities
 
-Case studies and academic findings related to AI-driven analysis in historical and cultural contexts
+• Case studies and academic findings related to AI-driven analysis in historical and cultural contexts
 
 🎥 Relevant Learning Videos
 To supplement the research materials, we recommend the following video series on Generative AI (in Chinese, with insightful content for humanities researchers):
 
-【生成式AI導論 2024】(台大李宏毅)
+• 【生成式AI導論 2024】(台大李宏毅)
 [Watch on YouTube
 ]([url](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI
 ))
 📌 Purpose
 This project aims to:
 
-Encourage interdisciplinary research across AI and the humanities
+• Encourage interdisciplinary research across AI and the humanities
 
-Provide accessible learning materials for those interested in AI applications in cultural studies
+• Provide accessible learning materials for those interested in AI applications in cultural studies
 
-Build a bridge between technological innovation and traditional scholarship
+• Build a bridge between technological innovation and traditional scholarship
 
