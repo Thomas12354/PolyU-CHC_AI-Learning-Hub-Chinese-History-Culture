@@ -13,9 +13,7 @@ Research papers and review articles in PDF format
 🎥 Relevant Learning Videos
 To supplement the research materials, we recommend the following video series on Generative AI (in Chinese, with insightful content for humanities researchers):
 
-• 【生成式AI導論 2024】(台大李宏毅)[Watch on YouTube
-]((https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI
-) 
+• 【生成式AI導論 2024】(台大李宏毅)
 [Watch on YouTube]([url](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI))
 📌 Purpose
 This project aims to:
