@@ -25,3 +25,4 @@ This project aims to:
 
 • Build a bridge between technological innovation and traditional scholarship
 
+[War Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
