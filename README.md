@@ -25,6 +25,8 @@ This project aims to:
 
 • Build a bridge between technological innovation and traditional scholarship
 
-[War Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
+[軍事事件 Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
 [旱災 Colab](https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing)
-
+[地震 Colab](https://colab.research.google.com/drive/1eMAZyIX6lnafVDbYlOfDBBqInU7bqI5N?usp=sharing)
+[水災 Colab](https://colab.research.google.com/drive/1NocJr0QpShM05GxBriK5AQAX8efNflHL?usp=sharing)
+[軍事時間 Colab](https://colab.research.google.com/drive/1SiqK1_KiGOh6eo3Kkie-3JMFK4lIhqfm?usp=sharing)
