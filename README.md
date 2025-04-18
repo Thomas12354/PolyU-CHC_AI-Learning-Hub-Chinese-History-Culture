@@ -10,9 +10,6 @@ Research papers and review articles in PDF format
 
 • Case studies and academic findings related to AI-driven analysis in historical and cultural contexts
 
-🎥 Relevant Learning Videos
-To supplement the research materials, we recommend the following video series on Generative AI (in Chinese, with insightful content for humanities researchers):
-
 📌 Purpose
 This project aims to:
 
@@ -22,19 +19,31 @@ This project aims to:
 
 • Build a bridge between technological innovation and traditional scholarship
 
+🎥 Relevant Learning Videos
+To supplement the research materials, we recommend the following video series on Generative AI (in Chinese, with insightful content for humanities researchers):
+
 • 【生成式AI導論 2024】(台大李宏毅)
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)
 
 
+A valuable collection of digital humanities tutorials. Highly recommended for learning:
 • Programming Historian
 [https://programminghistorian.org/](https://programminghistorian.org/)
+- Text and data mining
+- Web scraping
+- GIS and mapping
+- Natural language processing (NLP)
+- Python and R for humanists
 
-A valuable collection of digital humanities tutorials. Highly recommended for learning:
+- ### 🤖 Generative AI for East Asian Studies
+[https://github.com/fccsdigitalchina/generative_ai_east_asian_studies](https://github.com/fccsdigitalchina/generative_ai_east_asian_studies)
 
-- Text analysis and natural language processing (NLP)
-- Data visualization and mapping
-- Working with historical data using Python and R
-- Web scraping and data cleaning
+A curated collection of AI-powered tools and prompt templates designed for working with East Asian historical texts, cultural analysis, and research. Highlights include:
+
+- Prompt engineering examples
+- OCR and historical document tools
+- Reading assistants and text analyzers
+- Visualization with generative models
 
 [軍事事件 Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
 [旱災 Colab](https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing)
