@@ -27,7 +27,7 @@ To supplement the research materials, we recommend the following video series on
 
 
 A valuable collection of digital humanities tutorials. Highly recommended for learning:
-• Programming Historian
+### • Programming Historian
 [https://programminghistorian.org/](https://programminghistorian.org/)
 - Text and data mining
 - Web scraping
