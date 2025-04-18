@@ -26,24 +26,24 @@ To supplement the research materials, we recommend the following video series on
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)
 
 
-A valuable collection of digital humanities tutorials. Highly recommended for learning:
-### • Programming Historian
-[https://programminghistorian.org/](https://programminghistorian.org/)
-- Text and data mining
-- Web scraping
-- GIS and mapping
-- Natural language processing (NLP)
-- Python and R for humanists
+## 📚 Recommended Learning Resources
 
-- ### 🤖 Generative AI for East Asian Studies
-[https://github.com/fccsdigitalchina/generative_ai_east_asian_studies](https://github.com/fccsdigitalchina/generative_ai_east_asian_studies)
+### 🧠 Programming Historian  
+[https://programminghistorian.org/](https://programminghistorian.org/)  
+Peer-reviewed tutorials on digital tools for humanities research. Learn web scraping, text analysis, GIS, Python, R, and more.
 
-A curated collection of AI-powered tools and prompt templates designed for working with East Asian historical texts, cultural analysis, and research. Highlights include:
+---
 
-- Prompt engineering examples
-- OCR and historical document tools
-- Reading assistants and text analyzers
-- Visualization with generative models
+### 🤖 Generative AI for East Asian Studies  
+[https://github.com/fccsdigitalchina/generative_ai_east_asian_studies](https://github.com/fccsdigitalchina/generative_ai_east_asian_studies)  
+A toolkit of AI tools and prompt templates for studying East Asian texts and culture. Includes OCR, textual analysis, visualization, and generative assistants.
+
+---
+
+### 🏛️ BIC User Guide by Calvin Yeh  
+[https://github.com/cyeh-mpiwg/bic-user-guide](https://github.com/cyeh-mpiwg/bic-user-guide)  
+A practical guide for working with bibliographic metadata and linked open data in historical research using the Bibliographic Information Commons framework.
+
 
 [軍事事件 Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
 [旱災 Colab](https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing)
