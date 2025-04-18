@@ -13,9 +13,6 @@ Research papers and review articles in PDF format
 🎥 Relevant Learning Videos
 To supplement the research materials, we recommend the following video series on Generative AI (in Chinese, with insightful content for humanities researchers):
 
-• 【生成式AI導論 2024】(台大李宏毅)
-[Watch on YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)
-
 📌 Purpose
 This project aims to:
 
@@ -24,6 +21,20 @@ This project aims to:
 • Provide accessible learning materials for those interested in AI applications in cultural studies
 
 • Build a bridge between technological innovation and traditional scholarship
+
+• 【生成式AI導論 2024】(台大李宏毅)
+[Watch on YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)
+
+
+• Programming Historian
+[https://programminghistorian.org/](https://programminghistorian.org/)
+
+A valuable collection of digital humanities tutorials. Highly recommended for learning:
+
+- Text analysis and natural language processing (NLP)
+- Data visualization and mapping
+- Working with historical data using Python and R
+- Web scraping and data cleaning
 
 [軍事事件 Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
 [旱災 Colab](https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing)
