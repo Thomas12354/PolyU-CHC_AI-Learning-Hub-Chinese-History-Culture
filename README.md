@@ -44,6 +44,29 @@ A toolkit of AI tools and prompt templates for studying East Asian texts and cul
 [https://github.com/cyeh-mpiwg/bic-user-guide](https://github.com/cyeh-mpiwg/bic-user-guide)  
 A practical guide for working with bibliographic metadata and linked open data in historical research using the Bibliographic Information Commons framework.
 
+---
+
+### 🐑 LLaMA 3.1 Fine-tuned on 《史记》 for Classical Chinese Translation  
+[https://www.youtube.com/watch?v=Tq6qPw8EUVg](https://www.youtube.com/watch?v=Tq6qPw8EUVg)  
+A tutorial (in Chinese) on fine-tuning Meta's LLaMA 3.1 8B model using *Shiji* (《史记》) text data to translate modern Chinese into classical Chinese. Tools and platforms used:
+
+- 🧠 Colab + Unsloth for efficient training  
+- 🤗 Hugging Face for model hosting  
+- 📚 Source text: *Seventy Biographies* from the *Shiji*
+
+An impressive demonstration of generative AI for classical Chinese textual modeling and translation.
+
+---
+
+### 🧭 GraphRAG + GPT-4o-mini for Journey to the West Knowledge Graph  
+[https://www.youtube.com/watch?v=DtL3zMVtOOc](https://www.youtube.com/watch?v=DtL3zMVtOOc)  
+A hands-on walkthrough of using GraphRAG and GPT-4o-mini to generate a semantic knowledge graph from the classic Chinese novel *Journey to the West* (《西游记》). Key features include:
+
+- 🧠 Automatic entity and relation extraction  
+- 🌐 Visualization of character interactions and story structure  
+- 🛠️ Ideal for exploring how RAG (Retrieval-Augmented Generation) techniques support cultural data modeling
+
+A compelling example of AI-supported storytelling and narrative structure analysis in Chinese literature.
 
 [軍事事件 Map Colab](https://colab.research.google.com/drive/1QDXD1-hzG_Pjmu_kg-3a-7tXN-kgCcmG?usp=sharing)
 [旱災 Colab](https://colab.research.google.com/drive/1Z7e-3Nr3IuBagO5GzbQ6_jR_2ZVyEn-J?usp=sharing)
