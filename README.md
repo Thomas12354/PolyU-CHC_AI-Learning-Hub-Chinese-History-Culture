@@ -73,3 +73,4 @@ A compelling example of AI-supported storytelling and narrative structure analys
 [地震 Colab](https://colab.research.google.com/drive/1eMAZyIX6lnafVDbYlOfDBBqInU7bqI5N?usp=sharing)
 [水災 Colab](https://colab.research.google.com/drive/1NocJr0QpShM05GxBriK5AQAX8efNflHL?usp=sharing)
 [軍事時間 Colab](https://colab.research.google.com/drive/1SiqK1_KiGOh6eo3Kkie-3JMFK4lIhqfm?usp=sharing)
+[SNA network Colab](https://colab.research.google.com/drive/19u6-13QAhWQPEq3gQArR7UHpIoc-Rfpj?usp=sharing)
